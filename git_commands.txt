@@ -1,0 +1,13 @@
+git init
+git status
+git add testing.py
+git rm --cached testing.py
+git commit -m "File added"
+git restore testing.pygit
+
+
+git remote add origin https:....
+git remote -v
+git status
+
+git push origin master
